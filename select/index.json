@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "電波通信",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:08:44.425132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "電波通信",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/01_電波通信_東京事変.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "電波通信",
+      "artist": "東京事変_Incidents Tokyo",
+      "has_synced": false,
+      "path": "select/02_電波通信_東京事変_Incidents_Tokyo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Denpa Tsūshin [電波通信]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/03_Denpa_Tsūshin_[電波通信]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "電波通信",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/04_電波通信_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "電波通信 - Denpa Tsuushin -Put Your Antenna Up-",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_電波通信_-_Denpa_Tsuushin_-Put_Your_Antenna_Up-_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "電波通信",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/06_電波通信_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電波通信",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_電波通信_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "電波通信",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_電波通信_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "電波通信",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_電波通信_東京事変.txt"
+    }
+  ]
+}
